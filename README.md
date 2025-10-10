@@ -1,4 +1,10 @@
+#### Please visit the original repo at https://github.com/rockbox-y1/themes - this is a fork of the repository intended for integration testing with a html/js based theme downloader
+
 # Rockbox 360p Themes
+
+
+
+
 
 ## List of themes and credits
 Noted authors are only noted for the most recent edits, for more details see the .sbs and .wps files of the corresponding themes.
